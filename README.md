@@ -30,7 +30,7 @@ food-menu/
 - Food descriptions and prices
 - Navigation links
 - Contact information
-- Beginner-friendly HTML project
+
 
 
 
